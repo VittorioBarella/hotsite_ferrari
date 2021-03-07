@@ -1,0 +1,32 @@
+.banner-divisor{
+  background-color: #ED1C24 ;
+  color:#FFFFFF;
+  font-weight: bold;
+  margin-top: 15px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+
+}
+
+.btn:focus, .btn:active, button:focus, button:active {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+  
+  #image-gallery .modal-footer{
+    display: block;
+  }
+  
+  .thumb{
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+
+.bg-cover {
+  background-attachment: static;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(https://thumbs.dreamstime.com/b/ferriari-factory-entrance-new-establishment-maranello-modena-italy-year-ferrari-industrial-98962126.jpg);
+}
+
