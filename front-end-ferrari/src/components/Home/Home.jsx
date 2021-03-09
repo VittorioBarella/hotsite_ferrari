@@ -82,7 +82,7 @@ return(
                   <a className="thumbnail" 
                      data-image="https://i.pinimg.com/originals/ad/e1/17/ade117b45e97ea63752fdfff9b18b8d0.jpg"
                      title="Vettel em sua última corrida pela Ferrari">
-                  <img class="img-thumbnail"
+                  <img className="img-thumbnail"
                      src="https://i.pinimg.com/originals/ad/e1/17/ade117b45e97ea63752fdfff9b18b8d0.jpg"
                      alt="Vettel em sua última corrida pela Ferrari"/>
                   </a>

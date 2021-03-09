@@ -16,11 +16,11 @@ function Pilotos(){
                                 <Card.Body>
                                 <Card.Title>Mattia Binotto - Chefe de Equipe</Card.Title>
                                 <Card.Text>
-                                Ele se juntou a Scuderia Ferrari em 1995, originalmente como engenheiro de testes, 
+                                <p> Ele se juntou a Scuderia Ferrari em 1995, originalmente como engenheiro de testes, 
                                 e então desempenhou um papel similar na equipe de 1997 a 2003. 
                                 Depois de um período como engenheiro-chefe, ele se tornou chefe de motor e KERS em 2009, 
                                 antes de se juntar à diretoria de operações da unidade de potência no final de 2014, 
-                                desempenhando um papel fundamental na recuperação do desempenho com seu motor turbo híbrido V6.
+                                desempenhando um papel fundamental na recuperação do desempenho com seu motor turbo híbrido V6.</p>
                                 </Card.Text>
                                 </Card.Body>
                                 <Card.Footer>
@@ -32,11 +32,11 @@ function Pilotos(){
                                 <Card.Body>
                                 <Card.Title>Charles Leclerc - Piloto</Card.Title>
                                 <Card.Text>
-                                Em 11 de setembro de 2018 a Scuderia Ferrari o anunciou como piloto titular partir de 2019, 
+                                <p>Em 11 de setembro de 2018 a Scuderia Ferrari o anunciou como piloto titular partir de 2019, 
                                 substituindo Kimi Räikkönen.                                
                                 Na segunda prova da temporada 2019 no Barém obteve a pole position, 
                                 tornando-se o mais jovem da equipe Ferrari - superando a Jacky Ickx, 
-                                e segundo da categoria, atrás de seu atual companheiro Sebastian Vettel.
+                                e segundo da categoria, atrás de seu atual companheiro Sebastian Vettel.</p>
                                 </Card.Text>
                                 </Card.Body>
                                 <Card.Footer>
@@ -48,7 +48,7 @@ function Pilotos(){
                                 <Card.Body>
                                 <Card.Title>Carlos Sainz - Piloto</Card.Title>
                                 <Card.Text>
-                                Sainz entra na McLaren para substituir Alonso.
+                                <p> Sainz entra na McLaren para substituir Alonso.
                                 Sua primeira corrida na McLaren foi curta e nada boa, 
                                 já que teve que se retirar após problema no motor Renault, 
                                 onde seu carro teve um princípio de incêndio, 
@@ -57,6 +57,7 @@ function Pilotos(){
                                 a Scuderia Ferrari anunciou que Sainz irá competir pela equipe a partir da temporada de 2021, 
                                 ao lado de Charles Leclerc. 
                                 Sainz assinou um contrato de dois anos com a equipe italiana.
+                                </p>
                                 </Card.Text>
                                 </Card.Body>
                                 <Card.Footer>

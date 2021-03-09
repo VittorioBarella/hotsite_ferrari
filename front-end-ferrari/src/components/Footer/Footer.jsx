@@ -6,9 +6,9 @@ function Footer(){
     return(
          <footer className="mainfooter" role="contentinfo">
             <div className="footer-middle">
-               <div className="container-fluid">
+               <div className="container">
                   <div className="row">
-                     <div className="col-md-3 col-sm-3">
+                     <div className="col-md-6 col-sm-6">
                         <div className="footer-pad">
                            <h4>Loja</h4>
                            <ul className="list-unstyled">

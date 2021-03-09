@@ -1,0 +1,14 @@
+.btn-saiba-mais{
+    margin-bottom: 20px;
+}
+
+.bg-cover-sobre {
+    background-attachment: static;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(https://wallpaperaccess.com/full/342804.jpg);
+}
+.imagens-sobre{
+    margin-bottom: -80px;
+}
