@@ -31,6 +31,7 @@ function Footer(){
                   <div className="row copyright">
                      <div className="col-md-12 copy">
                         <p className="text-center">&copy; Copyright 2021 - Scuderia Ferrari.  Todos os Direitos Reservados.</p>
+                        <p className="text-center">Desenvolvido por Vittório de Andrade Barella</p>
                      </div>
                   </div>
                </div>

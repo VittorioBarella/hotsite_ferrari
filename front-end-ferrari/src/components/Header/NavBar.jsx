@@ -19,9 +19,9 @@ function NavBar(){
                                     <a className="nav-link" aria-current="Página Inicial">Home</a>
                                 </li>
                             </Link>
-                            <Link to="/pilotos">
+                            <Link to="/equipe">
                                 <li className="nav-item">
-                                    <a className="nav-link" aria-current="Página sobre Pilotos">Pilotos</a>
+                                    <a className="nav-link" aria-current="Página sobre a Equipe">Equipe</a>
                                 </li>
                             </Link>
                             <Link to="/sobre">
